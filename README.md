@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/github/issues-raw/ColbyFrey/yt-dlp?label=Issues&logo=Github" alt="Issues">
   </a>
   <a href="https://github.com/ColbyFrey/yt-dlp/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ColbyFrey/yt-dlp?label=Pull requests&logo=Github" alt="Pull requests">
+    <img src="https://img.shields.io/github/issues-pr-raw/ColbyFrey/yt-dlp?label=Pullrequests&logo=Github" alt="Pull requests">
   </a>
 </p>
 <p align="center">
@@ -55,7 +55,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/81fed25250909bb618c0180c8092c143feae0616.svg" alt="Statistics" title="Repobeats analytics image" />
+  <img src="https://repobeats.axiom.co/api/embed/62ca420b16a8a14be421319affc15cfe609bcb6d.svg" alt="Statistics" title="Repobeats analytics image" />
 </p>
 
 ---
