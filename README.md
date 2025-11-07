@@ -11,46 +11,46 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/boul2gom/yt-dlp/issues/new?assignees=&labels=bug&template=BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/ColbyFrey/yt-dlp/issues/new?assignees=&labels=bug&template=BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/boul2gom/yt-dlp/discussions/new?assignees=&labels=enhancement&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/ColbyFrey/yt-dlp/discussions/new?assignees=&labels=enhancement&title=feat%3A+">Request a Feature</a>
   ·
-  <a href="https://github.com/boul2gom/yt-dlp/discussions/new?assignees=&labels=help%20wanted&title=ask%3A+">Ask a Question</a>
+  <a href="https://github.com/ColbyFrey/yt-dlp/discussions/new?assignees=&labels=help%20wanted&title=ask%3A+">Ask a Question</a>
 </div>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/boul2gom/yt-dlp/actions/workflows/ci-dev.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/boul2gom/yt-dlp/ci-dev.yml?label=Develop%20CI&logo=Github" alt="Develop CI"/>
+  <a href="https://github.com/ColbyFrey/yt-dlp/actions/workflows/ci-dev.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/ColbyFrey/yt-dlp/ci-dev.yml?label=Develop%20CI&logo=Github" alt="Develop CI"/>
   </a>  
   <a href="https://crates.io/crates/yt-dlp">
-    <img src="https://img.shields.io/github/v/release/boul2gom/yt-dlp?label=Release&logo=Rust" alt="Release"/>
+    <img src="https://img.shields.io/github/v/release/ColbyFrey/yt-dlp?label=Release&logo=Rust" alt="Release"/>
   </a>
   <a href="https://crates.io/crates/yt-dlp">
     <img src="https://img.shields.io/crates/d/yt-dlp?label=Downloads&logo=Rust" alt="Downloads"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/boul2gom/yt-dlp/discussions">
-    <img src="https://img.shields.io/github/discussions/boul2gom/yt-dlp?label=Discussions&logo=Github" alt="Discussions">
+  <a href="https://github.com/ColbyFrey/yt-dlp/discussions">
+    <img src="https://img.shields.io/github/discussions/ColbyFrey/yt-dlp?label=Discussions&logo=Github" alt="Discussions">
   </a>
-  <a href="https://github.com/boul2gom/yt-dlp/issues">
-    <img src="https://img.shields.io/github/issues-raw/boul2gom/yt-dlp?label=Issues&logo=Github" alt="Issues">
+  <a href="https://github.com/ColbyFrey/yt-dlp/issues">
+    <img src="https://img.shields.io/github/issues-raw/ColbyFrey/yt-dlp?label=Issues&logo=Github" alt="Issues">
   </a>
-  <a href="https://github.com/boul2gom/yt-dlp/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/boul2gom/yt-dlp?label=Pull requests&logo=Github" alt="Pull requests">
+  <a href="https://github.com/ColbyFrey/yt-dlp/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ColbyFrey/yt-dlp?label=Pull requests&logo=Github" alt="Pull requests">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/boul2gom/yt-dlp/blob/develop/LICENSE.md">
-    <img src="https://img.shields.io/github/license/boul2gom/yt-dlp?label=License&logo=Github" alt="License">
+  <a href="https://github.com/ColbyFrey/yt-dlp/blob/develop/LICENSE.md">
+    <img src="https://img.shields.io/github/license/ColbyFrey/yt-dlp?label=License&logo=Github" alt="License">
   </a>
-  <a href="https://github.com/boul2gom/yt-dlp/stargazers">
-    <img src="https://img.shields.io/github/stars/boul2gom/yt-dlp?label=Stars&logo=Github" alt="Stars">
+  <a href="https://github.com/ColbyFrey/yt-dlp/stargazers">
+    <img src="https://img.shields.io/github/stars/ColbyFrey/yt-dlp?label=Stars&logo=Github" alt="Stars">
   </a>
-  <a href="https://github.com/boul2gom/yt-dlp/fork">
-    <img src="https://img.shields.io/github/forks/boul2gom/yt-dlp?label=Forks&logo=Github" alt="Forks">
+  <a href="https://github.com/ColbyFrey/yt-dlp/fork">
+    <img src="https://img.shields.io/github/forks/ColbyFrey/yt-dlp?label=Forks&logo=Github" alt="Forks">
   </a>
 </p>  
 
@@ -79,7 +79,7 @@ yt-dlp = "1.3.4"
 ```
 
 A new release is automatically published every two weeks, to keep up to date with dependencies and features.
-Make sure to check the [releases](https://github.com/boul2gom/yt-dlp/releases) page to see the latest version of the crate.
+Make sure to check the [releases](https://github.com/ColbyFrey/yt-dlp/releases) page to see the latest version of the crate.
 
 ## 🔌 Optional features
 
