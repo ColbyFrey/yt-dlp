@@ -785,7 +785,38 @@ impl Youtube {
         Ok(download_id)
     }
 
-    /// Get the status of a download.
+    // pub async fn download_video_with_progress_and_quality<F>(
+    //     &self, 
+    //     video : &model::Video,
+    //     output: impl AsRef<str> + std::fmt::Debug,
+    //     video_quality: model::format_selector::VideoQuality,
+    //     video_codec: model::format_selector::VideoCodecPreference,
+    //     audio_quality: model::format_selector::AudioQuality,
+    //     audio_codec: model::format_selector::AudioCodecPreference,
+    //     progress_callback: F,
+    // ) -> Result<u64>
+    // where
+    //     F: Fn(u64, u64) + Send + Sync + 'static,
+    
+    // {
+    //     #[cfg(feature = "tracing")]
+    //     tracing::debug!("Downloading video with progress tracking: {}", video.id);
+
+    //     // Get the best format with video and audio
+    //     // Select video format based on quality and codec preferences
+    //     let video_format = video
+    //         .select_video_format(video_quality, video_codec.clone())
+    //         .ok_or_else(|| Error::MissingFormat("video".to_string()))?;
+
+    //     // Select audio format based on quality and codec preferences
+    //     let audio_format = video
+    //         .select_audio_format(audio_quality, audio_codec.clone())
+    //         .ok_or_else(|| Error::MissingFormat("audio".to_string()))?;
+
+
+
+    // }
+    // /// Get the status of a download.
     ///
     /// # Arguments
     ///
