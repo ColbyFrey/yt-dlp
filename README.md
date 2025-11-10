@@ -1,6 +1,6 @@
 <h2 align="center">🎬️ A Rust library (with auto dependencies installation) for YouTube downloading</h2>
 
-<div align="center">This library is a Rust asynchronous wrapper around the yt-dlp command line tool, a feature-rich youtube (and others) audio/video downloader, which is a fork of youtube-dl with a lot of additional features and improvements.</div>
+<div align="center">This a fork of the original library: This library is a Rust asynchronous wrapper around the yt-dlp command line tool, a feature-rich youtube (and others) audio/video downloader, which is a fork of youtube-dl with a lot of additional features and improvements.</div>
 <div align="center">
   The crate is designed to download audio and video from various websites.
   You don't need to care about dependencies, yt-dlp and ffmpeg will be downloaded automatically.
